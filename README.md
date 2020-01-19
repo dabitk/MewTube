@@ -8,4 +8,4 @@ Basic video file CRUD operations with MongoDB :
 ![alt text](https://github.com/dabitk/MewTube/blob/master/CRUD.gif "CRUD")
 
 User-Authentication:
-![alt text](https://\github.com/dabitk/MewTube/blob/master/UserAuthentication.gif "UserAuthentication")
+![alt text](https://github.com/dabitk/MewTube/blob/master/UserAuthentication.gif "UserAuthentication")
